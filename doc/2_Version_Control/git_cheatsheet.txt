@@ -1,0 +1,27 @@
+a. git commit
+creates a new addition to the version history
+
+b. git branch
+creates a branch that points to a commit
+
+c. git checkout
+
+moves you to work and focus on a certain commit that your git commands act on
+
+d. git pull
+
+a mix of git fetch and git merge. This updates your repository with the remotes information and then merges. 
+
+e. git push 
+publishes your information on the remote repository. 
+
+f. git merge
+
+merges two git commit histories 
+
+g. git rebase
+
+moves a commit history in front of another git history. 
+
+h. git fetch
+grabs the commit information from the remote repository. 
