@@ -25,3 +25,23 @@ moves a commit history in front of another git history.
 
 h. git fetch
 grabs the commit information from the remote repository. 
+
+i. git add
+
+adds untracked files to commit stream.
+
+j. git status
+
+checks if any untracked files or files ready to commit exist.
+
+k. git log
+
+shows a log of git commits
+
+l. -u <branch>
+
+-u <brancn> only needs to be included the first time you push to the branch to GitHub. 
+
+m. git diff
+
+shows changes in files in branch. 
